@@ -1,0 +1,10 @@
+NO ./sprites/cash.xpm
+SO ./sprites/player.xpm
+
+F 0,0,0
+
+
+  EA ./sprites/cafe.xpm
+  WE ./sprites/wall.xpm
+
+C 0,150,255
