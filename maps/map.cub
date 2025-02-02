@@ -1,11 +1,11 @@
-NO ./sprites/cash.xpm
-SO ./sprites/player.xpm
+NO ./sprites/pared_ladrillos.xpm
+SO ./sprites/pared_ladrillos.xpm
 
 F 0,0,0
 
 
-  EA ./sprites/cafe.xpm
-  WE ./sprites/wall.xpm
+  EA ./sprites/pared_ladrillos.xpm
+  WE ./sprites/pared_ladrillos.xpm
 
 C 0,150,255
 
